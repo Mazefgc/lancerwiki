@@ -21,7 +21,7 @@ Planeta terrestre habitado, 90% do tamanho da Terra, orbitado pelas luas [[Lua A
 
 ### Mapas do planeta
 
-![[Ieri]]
+![[content/Lancer Campaign/Images/Planet Surfaces/Ierita/Ierita_Grid.png]] 
 
 > [!NOTE]- Quick Calculator  
 > Map Height in Pixels: `INPUT[number:map_height_y]`  

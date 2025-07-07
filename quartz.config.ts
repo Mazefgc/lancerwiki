@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "mazefgc.github.io/lancerwiki/",
     ignorePatterns: ["private", ".obsidian"],
     defaultDateType: "modified",
     theme: {

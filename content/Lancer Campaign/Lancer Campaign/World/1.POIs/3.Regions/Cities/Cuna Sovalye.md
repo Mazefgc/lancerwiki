@@ -1,7 +1,7 @@
 #place #Ierita #city #GMS 
 
 O centro cultural da região de [[Agirroni]], e também da cultura Eritana. Possui um tamanho médio, composta por distritos comerciais, industriais , residenciais e uma região agrícola ao redor do oeste da cidade.
-
+![[Sovalye.png]] 
 ```leaflet  
 id: MapSovalye
 image: [[Sovalye.png]]

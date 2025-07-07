@@ -21,7 +21,7 @@ Planeta terrestre habitado, 90% do tamanho da Terra, orbitado pelas luas [[Lua A
 
 ### Mapas do planeta
 
-![[content/Lancer Campaign/Images/Planet Surfaces/Ierita/Ierita_Grid.png]] 
+![[Lancer Campaign/Images/Planet Surfaces/Ierita/Ierita_Grid.png]] 
 
 > [!NOTE]- Quick Calculator  
 > Map Height in Pixels: `INPUT[number:map_height_y]`  
@@ -52,7 +52,7 @@ darkmode: false ### marker
 ```
 [![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfFsnkRy2qXBOFYq7UeqjlwZehG3Ai8_7WrFJvS4L-YwDqG_4O8VHqGY8X0GiXZiIihPKWSv83Qw1aeKUtqd-SBPpU6jaTgzbfh8sqrtJ5c2igUE3ynMPXiib07mmkvIZYzK3nF?key=LdxIKO6F_CxuuECBn3tPE9_t)]()
 
-![[content/Lancer Campaign/Images/Planet Surfaces/Ierita/Ierita_FullStack.png]]
+![[Lancer Campaign/Images/Planet Surfaces/Ierita/Ierita_FullStack.png]]
 ```leaflet  
 id: MapIeritaWithGrid
 image: [[Ierita_FullStack.png]]

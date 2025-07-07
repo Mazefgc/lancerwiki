@@ -14,7 +14,7 @@ Planeta terrestre habitado, 90% do tamanho da Terra, orbitado pelas luas [[Lua A
 - Nível de infraestrutura: Possui apenas 1 porto espacial mediano, capaz de reparos básicos e manufatura e lançamento de espaçonaves pequenas. Possui cidades parcialmente desenvolvidas, com alguma colônias remotas espalhadas em certas regiões. 
 
 ### Mapas do planeta
-[[/content/Images/Planet Surfaces/Ierita/Ierita_Grid.png]]
+[[/content/Lancer Campaign/Images/Planet Surfaces/Ierita/Ierita_Grid.png]]
 
 > [!NOTE]- Quick Calculator  
 > Map Height in Pixels: `INPUT[number:map_height_y]`  

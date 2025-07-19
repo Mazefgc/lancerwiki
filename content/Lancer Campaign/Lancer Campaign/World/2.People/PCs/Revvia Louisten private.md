@@ -1,9 +1,11 @@
-
-
 ---
+tags:
+  - PC
+  - person
+  - Ierita
 draft: true
-
 ---
+
 ## dump
 a backstory dela é tipo, ela nasceu um pouco antes da guerra civil acabar, uns 2 a 4 anos, claro que lidando com esse cenário dia após dia, até porque mesmo depois do fim da guerra Ieritan continua terrível, ela eventualmente decidiu ajudar quem participava de protesto e as revoluções menores porque, apesar de não conseguir participar diretamente, ainda queria ajudar. Que tipo de ajuda eu ja contei ali ne mas, levando pra frente o conhecimento do irmão que desapareceu em uma das revoluções menores, ela sinalizava lugares seguros tocando uma melodia específica com o tembûr curdo, a ponta do instrumento servindo pra indicar qual direção seguir pra chegar lá, enquanto sempre com alguns outros participantes por perto fingindo estar lá só pra ouvir a música enquanto disfarçavam quem tava indo pra área segura. Não era de forma alguma um método perfeito, só que até então tinha funcionado sem muitos problemas. Era ela e um grupinho de outras pessoas que alternavam entre quem tocava e quem tava lá ajudando a tratar o pessoal, só que, de novo, o método não era nem de longe perfeito. Em um dos momentos que ela tava na troca de cargos, ela percebeu alguns soldados que talvez tivessem visto o movimento, talvez por falta de pessoas pra disfarçar ou porque eles tiveram alguma suspeita e decidiram observar com certa distância, independente do que fosse eles com certeza tinham achado. Naturalmente, ela travou no lugar, segurando com força o tembûr, memento de seu irmão, ponderando em segundos que pareciam uma eternidade o que fazer, até o plano desesperado surgir: ela ia precisar causar uma comoção naquele exato instante, enquanto fazendo barulho o suficiente pra servir de aviso pra todos os outros fugirem dali. Como fazer uma comoção? Ela não tinha ideia, nenhuma ideia além de partir pra cima do soldado mais próximo e atacar com o instrumento, seja lá qual fose seu destino por uma insurgência dessa, e seja lá qual fosse o destino da última memória física do irmão dela que existia.
 

@@ -3,11 +3,9 @@ tags:
   - Ierita
   - person
   - PC
----
----
 draft: true
-
 ---
+
 Ishmael Barzel nasceu em [[Cuna Sovalye|Sovalye]], uma das diversas colônias de [[Ierita]], planeta inicialmente colonizado pela [[GERD]]. Ele morava em uma casa simples com seus pais, Ezra um mecânico e Miriam uma faxineira; juntamente de sua irmã mais velha, Abigail. A infância de Ishmael foi turbulenta, mesmo com o amor dado a ele por sua família, não era possível ignorar a instabilidade causada pela guerra civil que o planeta passava. 
 
 A corporação, cada vez mais abusiva e gananciosa, resolveu tomar controle do governo local, mergulhando todos em um conflito. Mesmo assim, a família tentava fazer o seu melhor trabalhando para obter o dinheiro necessário para manter seus filhos protegidos e alimentados.
